@@ -1,4 +1,4 @@
 # toy_p
 Make it light!
-- travel map: filter, hours
+- travel map: filter, Time zone
 - DeepBeef update: responsive web, application
