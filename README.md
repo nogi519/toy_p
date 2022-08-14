@@ -2,3 +2,4 @@
 Make it light!
 - travel map: filter, Time zone
 - DeepBeef update: responsive web, application
+- Shared class timetable
