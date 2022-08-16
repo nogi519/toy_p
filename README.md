@@ -1,5 +1,5 @@
 # toy_p
 Make it light!
-- travel map: filter, Time zone
+- travel map: filter, time zone
 - DeepBeef update: responsive web, application
-- Shared class timetable
+- shared class timetable
